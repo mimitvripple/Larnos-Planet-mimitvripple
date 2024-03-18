@@ -22,7 +22,7 @@ allowLaunchToNumbered: false
 	
 cloudMesh: {
   type: HexSkyMesh
-  planet: druol
+  planet: Ayam-C
   seed: 6
   speed: 2
   radius: 0.1
@@ -36,7 +36,7 @@ cloudMesh: {
 
 mesh: {
     type: NoiseMesh
-    planet: druol
+    planet: Ayam-C
     seed: 56164
     color1: 85ffff
     color2: 499ac9
